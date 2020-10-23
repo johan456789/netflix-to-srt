@@ -34,6 +34,14 @@
 
 ## Convert them into .srt
 
+### Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+### Run
+
 ```
 python main.py [-i INPUT_FOLDER] [-o OUTPUT_FOLDER]
 ```

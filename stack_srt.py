@@ -1,8 +1,8 @@
 from __future__ import annotations
 import sys
 import pysrt
-from tqdm import tqdm
 from pysrt import SubRipFile
+from tqdm import tqdm
 
 
 def stack_subs(subs: SubRipFile) -> SubRipFile:
